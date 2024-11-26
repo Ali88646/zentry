@@ -18,11 +18,11 @@ export default {
           200: "#010101",
           300: "#4fb7dd",
         },
+        violet: {
+          300: "#5724ff",
+        },
+        yellow: { 100: "#8e983f", 300: "#edff66" },
       },
-      violet: {
-        300: "#5724ff",
-      },
-      yellow: { 100: "#8e983f", 300: "#edff66" },
     },
   },
   plugins: [],
