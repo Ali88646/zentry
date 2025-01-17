@@ -69,7 +69,7 @@ body {
   }
 
   .hero-heading {
-    @apply uppercase font-zentry font-black text-9xl sm:right-10  lg:text-[12rem];
+    @apply uppercase font-zentry font-black text-5xl sm:right-10 sm:text-7xl md:text-9xl lg:text-[12rem];
   }
 
   .about-subtext {
@@ -270,8 +270,4 @@ body {
     transform: translateY(66%) scale(0.65);
     opacity: 0.8;
   }
-}
-
-.hover-effect {
-  @apply transition-all duration-300;
 }
