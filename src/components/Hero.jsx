@@ -120,12 +120,12 @@ const Hero = () => {
             onLoadedData={handlVideoLoaded}
           />
         </div>
-        <h1 className="special-font hero-heading absolute bottom-5 right-5 z-40 text-blue-75">
+        <h1 className="special-font hero-heading absolute bottom-5 right-5 z-40 text-blue-75 tracking-wide">
           G<b>a</b>ming
         </h1>
         <div className="absolute left-10 md:left-0 top-32 md:top-20 z-40 size-full">
           <div className="mt-24px-5 sm:px-10">
-            <h1 className="special-font hero-heading text-blue-100">
+            <h1 className="special-font hero-heading text-blue-100 tracking-wide">
               redifi<b>n</b>e
             </h1>
             <p className="mb-5 max-2-64 font-robert-regular text-blue-100 text-xl leading-5 md:text-xl ">
@@ -141,7 +141,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <h1 className="special-font hero-heading absolute bottom-5 right-5  text-black">
+      <h1 className="special-font hero-heading absolute bottom-5 right-5  text-black tracking-wide">
         G<b>a</b>ming
       </h1>
     </div>

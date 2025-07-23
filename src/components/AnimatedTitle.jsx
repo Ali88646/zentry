@@ -38,7 +38,7 @@ const AnimatedTitle = ({ title, containerClass }) => {
               return (
                 <span
                   key={i}
-                  className="animated-word"
+                  className="animated-word tracking-wide"
                   dangerouslySetInnerHTML={{ __html: word }}
                 />
               );

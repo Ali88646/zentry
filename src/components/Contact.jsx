@@ -29,8 +29,6 @@ const Contact = () => {
         start: "top center",
         end: "bottom 80%",
         toggleActions: "restart none none none",
-        markers: true,
-        // scrub: true,
       },
     });
 
